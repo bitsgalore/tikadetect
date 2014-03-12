@@ -9,7 +9,7 @@ Note that this not intended as a production-ready tool! My main reason for writi
 
 
 ##Installation of PyJnius and its dependencies
-This script uses [PyJnius](http://pyjnius.readthedocs.org/en/latest/) for accessing the Tika Java classes. I found several guides on the installation of PyJnius and its dependencies, and none of them quite worked for me (the *python-dev* in particular isn explicitly mentioned anywhere). After some experimentation the following worked for me under Linux Mint (haven tried under Windows yet): 
+This script uses [PyJnius](http://pyjnius.readthedocs.org/en/latest/) for accessing the Tika Java classes. I found several guides on the installation of PyJnius and its dependencies, and none of them quite worked for me (*python-dev* in particular isn't explicitly mentioned anywhere). After some experimentation the following did the trick for me under Linux Mint (haven tried under Windows yet): 
 
 ###Step 1: install Cython
 
