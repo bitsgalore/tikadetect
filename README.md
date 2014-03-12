@@ -1,4 +1,3 @@
-
 ## About
 Simple demo script to demonstrate how the [Apache Tika](https://tika.apache.org/) API can be called from Python for doing mime type detection. Access to the Java API is done using [PyJnius](http://pyjnius.readthedocs.org/en/latest/).
 
